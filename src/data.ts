@@ -22,6 +22,7 @@ export const data: Data = {
       updated_at: new Date(),
       type: ReportType.INCOME,
     },
+
     {
       id: 'uuid3',
       source: 'Food',
